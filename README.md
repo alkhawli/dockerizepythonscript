@@ -1,11 +1,9 @@
-# dockerizepythonscript
-
 # Dockerizing Python Scripts
 
-## Features
-
-- Session traces network activities and writes them into Filestorage or Elasticsearch
-- Operator automatically creates sessions on MQTT messages in Kubernetes Jobs
+## Use it as initial project
+- Cotains python scripts
+- Cotains requirements.txt
+- Cotains Dockerfile
 
 
 ## Run Session on Local Machine
