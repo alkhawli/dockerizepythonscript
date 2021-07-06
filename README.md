@@ -20,6 +20,6 @@ docker run --name container1 -d -it --rm pythonmain
 
 View Logs 
 ```bash
-docker log -f container1 
+docker logs -f container1 
 ```
 
